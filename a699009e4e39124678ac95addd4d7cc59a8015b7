@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6bc970ed_f543e82e",
+        "filename": "LICENSE.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 225
+      },
+      "writtenOn": "2018-09-11T16:46:15Z",
+      "side": 1,
+      "message": "2017 -\u003e 2018 , change everywhere\n\nremove Tech Mahindra",
+      "revId": "a699009e4e39124678ac95addd4d7cc59a8015b7",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
