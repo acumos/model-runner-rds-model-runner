@@ -1,0 +1,318 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8a1eb36b_dc189f4b",
+        "filename": "INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "Bryan has a perfectly good email address:  bryan.sullivan@research.att.com\n\nAnd he\u0027s on the left coast, not right coast",
+      "range": {
+        "startLine": 8,
+        "startChar": 12,
+        "endLine": 8,
+        "endChar": 15
+      },
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5d7b22e9_48ed2453",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "Please explain acronym",
+      "range": {
+        "startLine": 3,
+        "startChar": 51,
+        "endLine": 3,
+        "endChar": 54
+      },
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4a48ce03_0da4192e",
+        "filename": "docs/developer-guide.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "Please fix length of lines to match text (rst is picky)",
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a0d9c2b7_4c33cf98",
+        "filename": "docs/developer-guide.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "Where is the developer guide?",
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "507282b7_ec476ccf",
+        "filename": "docs/index.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "Pls fix line length",
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2cc393b7_c5358eb8",
+        "filename": "docs/overview.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "Pls fix line length",
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "17c3907b_6dd7b301",
+        "filename": "docs/overview.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "What is RDS?",
+      "range": {
+        "startLine": 23,
+        "startChar": 11,
+        "endLine": 23,
+        "endChar": 14
+      },
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3314fd0e_db375dd3",
+        "filename": "docs/overview.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "Not anywhere near on-boarding, please fix url",
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cd0d98e4_dee6f251",
+        "filename": "docs/overview.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "See above",
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7eddef39_dabdb19f",
+        "filename": "docs/release-notes.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "Please add version 0.1.0 here and the date.",
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "699470c2_a9e64f38",
+        "filename": "predictor/api/endpoints/__init__.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "maybe a comment??",
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1b63bfa0_d3d78de5",
+        "filename": "predictor/api/parser.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "Is this for AT\u0026T the company, or something else?",
+      "range": {
+        "startLine": 65,
+        "startChar": 35,
+        "endLine": 65,
+        "endChar": 38
+      },
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f6125aeb_26e19568",
+        "filename": "predictor/api/serializers.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "drop empty file",
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "36106c53_3a84321b",
+        "filename": "setup.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "Leading hyphen looks wrong here",
+      "range": {
+        "startLine": 51,
+        "startChar": 46,
+        "endLine": 51,
+        "endChar": 47
+      },
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2acb2ea8_06bb041c",
+        "filename": "test/unit_test/test_flask_pytest.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "There was some sensitivity to posting anything \"cmlp\" out to Gerrit, not sure about this one.",
+      "range": {
+        "startLine": 53,
+        "startChar": 33,
+        "endLine": 53,
+        "endChar": 37
+      },
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "830dc368_31e0feef",
+        "filename": "tox.ini",
+        "patchSetId": 4
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-17T16:06:10Z",
+      "side": 1,
+      "message": "Is python 3.6 acceptable?",
+      "range": {
+        "startLine": 3,
+        "startChar": 10,
+        "endLine": 3,
+        "endChar": 19
+      },
+      "revId": "2fea4c91c4965e9249a862e703c391de314abadf",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
