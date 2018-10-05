@@ -1,0 +1,416 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3bd85467_c282ad2d",
+        "filename": "README.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Project name is model runner; I understand the project\u0027s term was \"Predictor\" but that can cause some confusion, please consider.",
+      "range": {
+        "startLine": 1,
+        "startChar": 13,
+        "endLine": 1,
+        "endChar": 22
+      },
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "512526e3_b77d50e1",
+        "filename": "acumoscommon/config_util.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Please add license header",
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "735bb142_70c22e15",
+        "filename": "acumoscommon/responses.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Please add license header",
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "52e54960_709fdbde",
+        "filename": "acumoscommon/responses.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Maybe choose a different class name here to avoid CMLP acronym?",
+      "range": {
+        "startLine": 39,
+        "startChar": 6,
+        "endLine": 39,
+        "endChar": 18
+      },
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c5435395_91476722",
+        "filename": "acumoscommon/services/__init__.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Please add lic hdr",
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7cde6c45_2d7f4f6d",
+        "filename": "acumoscommon/services/model_manager_service.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Missing license header",
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e2350f5a_a0b33131",
+        "filename": "docs/database-install.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Can you provide any details about how to configure this package for the newly installed database?  What is needed, a URL, a username/password, a port number, a certificate??",
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4b7f6b9e_1afe0424",
+        "filename": "docs/developer-guide.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "This is useful information - how do you configure this package to use those existing external systems?",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 153
+      },
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "29a22243_3135b7a1",
+        "filename": "docs/developer-guide.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "This seems more appropriate to a USER guide.  I expect the developer guide to list design decisions, how to test, etc.",
+      "range": {
+        "startLine": 27,
+        "startChar": 12,
+        "endLine": 27,
+        "endChar": 13
+      },
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bcd1b98c_f401db61",
+        "filename": "docs/index.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "See comment elsewhere about \"Model Runner\" vs \"Predictor\" I don\u0027t have a preference, but I do like consistency",
+      "range": {
+        "startLine": 20,
+        "startChar": 11,
+        "endLine": 20,
+        "endChar": 20
+      },
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3683df31_e0249842",
+        "filename": "microservice_flask.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Could this be made configurable to benefit the K8S people?",
+      "range": {
+        "startLine": 35,
+        "startChar": 45,
+        "endLine": 35,
+        "endChar": 49
+      },
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f3a926a_d74ddd9a",
+        "filename": "predictor/__init__.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Usually python packages express the version as a tuple (0,1,0) here, and join them together to return the string.   \n\nIs this the app or the library? Elsewhere I found a version 1.0.0 (?)",
+      "range": {
+        "startLine": 19,
+        "startChar": 12,
+        "endLine": 19,
+        "endChar": 18
+      },
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4997f6ab_cc7e349b",
+        "filename": "predictor/api/business.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Pls add lic hdr",
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "877f1b84_fe9beb03",
+        "filename": "predictor/api/custom_api.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "I think you all are trying to remove this acronym, is that right?",
+      "range": {
+        "startLine": 60,
+        "startChar": 23,
+        "endLine": 60,
+        "endChar": 27
+      },
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3d607003_5e05869b",
+        "filename": "predictor/api/namespaces.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "I think the CMLP acronym should not be in this public code, right?",
+      "range": {
+        "startLine": 3,
+        "startChar": 58,
+        "endLine": 3,
+        "endChar": 68
+      },
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "92eaecef_ce596fe3",
+        "filename": "predictor/rds/wrapper.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Pls add lic hdr",
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "17df731e_76854241",
+        "filename": "properties/predictor.R",
+        "patchSetId": 6
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Pls add lic hdr, appropriate for R",
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fe4df6e_31030a7c",
+        "filename": "properties/predictor.R",
+        "patchSetId": 6
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "In general ATT guidance is to avoid ATT UIDs in public code, is this absolutely essential to list pk9069 so often?",
+      "range": {
+        "startLine": 13,
+        "startChar": 8,
+        "endLine": 13,
+        "endChar": 14
+      },
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d4036cfe_30358ab7",
+        "filename": "properties/settings.cfg",
+        "patchSetId": 6
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "Is the version 1.0.0 or 0.1.0  ?",
+      "range": {
+        "startLine": 2,
+        "startChar": 10,
+        "endLine": 2,
+        "endChar": 15
+      },
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2fa6abe1_a4d48adc",
+        "filename": "test/unit_test/properties/settings.cfg",
+        "patchSetId": 6
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-05T13:32:02Z",
+      "side": 1,
+      "message": "version 0.1.0 or 1.0.0?",
+      "range": {
+        "startLine": 2,
+        "startChar": 10,
+        "endLine": 2,
+        "endChar": 15
+      },
+      "revId": "d970cf93ce2759ddc968991fe1526b69326798eb",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
