@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6439b395_397422e8",
+        "filename": "pom.xml",
+        "patchSetId": 11
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-09T15:33:53Z",
+      "side": 1,
+      "message": "bad path, please fix",
+      "range": {
+        "startLine": 7,
+        "startChar": 46,
+        "endLine": 7,
+        "endChar": 69
+      },
+      "revId": "b264690703d71262f34fd6a8fd2f26bccb27c0c7",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
