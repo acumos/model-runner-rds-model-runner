@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8818e023_989d9fba",
+        "filename": "pom.xml",
+        "patchSetId": 12
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-09T16:13:03Z",
+      "side": 1,
+      "message": "I see the string in predictor/_version.py (not __init__.py)",
+      "range": {
+        "startLine": 7,
+        "startChar": 46,
+        "endLine": 7,
+        "endChar": 64
+      },
+      "revId": "551b266add7f77ead3f6e5ac5c99c2f7d52918b3",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
