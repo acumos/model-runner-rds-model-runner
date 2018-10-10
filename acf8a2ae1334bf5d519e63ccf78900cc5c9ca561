@@ -1,0 +1,164 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c4e783d1_e9dfdf54",
+        "filename": "docs/developer-guide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-10T14:00:29Z",
+      "side": 1,
+      "message": "You can leave off the word Acumos in your titles\n\nMay I suggest using title \"R Data Predictor ...\" and put the acronym in the first sentence?",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 6
+      },
+      "revId": "acf8a2ae1334bf5d519e63ccf78900cc5c9ca561",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "62ad9982_3656d7f6",
+        "filename": "docs/index.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-10T14:00:29Z",
+      "side": 1,
+      "message": "You don\u0027t have to use Acumos as the first word in every title",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 6
+      },
+      "revId": "acf8a2ae1334bf5d519e63ccf78900cc5c9ca561",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0a9d55eb_4b6aeef6",
+        "filename": "docs/overview.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-10T14:00:29Z",
+      "side": 1,
+      "message": "Please make the \u003d\u003d\u003d\u003d line longer by 1 char, it must be as long as the text",
+      "revId": "acf8a2ae1334bf5d519e63ccf78900cc5c9ca561",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "304b7253_f17c2f23",
+        "filename": "docs/release-notes.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-10T14:00:29Z",
+      "side": 1,
+      "message": "Can drop \"Acumos\" here",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 6
+      },
+      "revId": "acf8a2ae1334bf5d519e63ccf78900cc5c9ca561",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fbc71e0d_50bf84d8",
+        "filename": "docs/release-notes.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-10T14:00:29Z",
+      "side": 1,
+      "message": "Please make 1 character longer",
+      "revId": "acf8a2ae1334bf5d519e63ccf78900cc5c9ca561",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "27aa1953_dcaf8fed",
+        "filename": "microservice_flask.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-10T14:00:29Z",
+      "side": 1,
+      "message": "Prolly should start with #!/..  right?",
+      "revId": "acf8a2ae1334bf5d519e63ccf78900cc5c9ca561",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "04db2b68_c74b1af8",
+        "filename": "properties/predictor.R",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-10T14:00:29Z",
+      "side": 1,
+      "message": "I\u0027m horribly ignorant about R.  Does it support #!/usr/bin/env lines?  What version do you require?",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 14
+      },
+      "revId": "acf8a2ae1334bf5d519e63ccf78900cc5c9ca561",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "168831a7_900a7213",
+        "filename": "wsgi.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-10T14:00:29Z",
+      "side": 1,
+      "message": "maybe this should get a #!/usr/bin/env shebang line also?",
+      "revId": "acf8a2ae1334bf5d519e63ccf78900cc5c9ca561",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
