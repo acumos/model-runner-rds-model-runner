@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "85b9f187_583f915e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-11-09T13:23:57Z",
+      "side": 1,
+      "message": "Please remove this blank line, keep footer as one block",
+      "revId": "7a77101130440f1d5e781f8d8f0c7e978a9a9ded",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ce3c77f8_9750ffdf",
+        "filename": "Dockerfile",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-11-09T13:23:57Z",
+      "side": 1,
+      "message": "I suggest using a tag, not relying on \"latest\"",
+      "range": {
+        "startLine": 18,
+        "startChar": 17,
+        "endLine": 18,
+        "endChar": 27
+      },
+      "revId": "7a77101130440f1d5e781f8d8f0c7e978a9a9ded",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ed905e83_08a1d209",
+        "filename": "Dockerfile",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-11-09T13:23:57Z",
+      "side": 1,
+      "message": "I flagged this in another Dockerfile, changing to world writable seems like a temporary workaround that might be needed while debugging a problem, but should not be accepted in a deployed-to-production image.",
+      "range": {
+        "startLine": 23,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 22
+      },
+      "revId": "7a77101130440f1d5e781f8d8f0c7e978a9a9ded",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
