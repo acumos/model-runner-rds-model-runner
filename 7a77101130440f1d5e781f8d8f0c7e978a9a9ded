@@ -1,0 +1,8 @@
+Code-Review+1: Ryan Hull <rh1832@att.com>
+Verified+1: Acumos Jobbuilder <acumos-jobbuilder@jenkins.acumos.org>
+Code-Review+2: Abhishek Khandelwal <ak983d@att.com>
+Submitted-by: Abhishek Khandelwal <ak983d@att.com>
+Submitted-at: Mon, 12 Nov 2018 16:27:32 +0000
+Reviewed-on: https://gerrit.acumos.org/r/3289
+Project: model-runner/rds-model-runner
+Branch: refs/heads/master
